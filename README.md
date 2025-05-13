@@ -27,6 +27,18 @@ Dataset involves four columns: comment, positive, negative, neutral.
 - Remove punctuation and non-words.
 - Remove stopwords.
 - Lemmatization.
+3. Model
+- Use CountVectorizer to vectorize text.
+- Use Multinomial Naive Bayes to build and train model.
+4. Data app
+- Use streamlit to develop a simple data app, which allows user to enter a comment. Model will analyze the comment and predict the sentiment
+## Setup
+To run this project, install Python libraries:
+* Numpy
+* Pandas
+* Matplotlib
+* scikit-learn
+* streamlit
 
 
 
