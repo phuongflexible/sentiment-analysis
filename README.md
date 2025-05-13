@@ -39,6 +39,8 @@ To run this project, install Python libraries:
 * Matplotlib
 * scikit-learn
 * streamlit
+## Project status
+This project has finished.
 
 
 
